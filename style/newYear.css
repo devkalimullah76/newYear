@@ -100,7 +100,7 @@ main{
     color: #737272;
 }
 /* Mindset StyleSheets */
-.minset{
+.mindset{
     margin: 0 100px;
     background-image: url(../images/watch.png);
     height: 400px;
@@ -131,6 +131,7 @@ main{
 }
 /* footer area stylesheets */
 footer{
+    margin-top: 100px;
     padding: 200px 300px;
     background-color: #000;
 }
@@ -154,7 +155,6 @@ footer{
     font-size: 16px;
     color: #FFFFFF;
 }
-.socialIcon{}
 .socialIcon ul{
     display: flex;
     margin-left: -20px;

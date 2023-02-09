@@ -43,3 +43,67 @@ header{
 }
 
 /* Main Part */
+main{
+    padding: 0 200px;
+}
+.prvYears{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.prvContent{
+    width: 50%;
+}
+.prvYears h2{
+    width: 30%;
+    font-weight: 700;
+    font-size: 40px;
+}
+.prvAbout {
+    width: 416px;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 20px 0;
+}
+.checkImg img{
+    width: 20px;
+    padding-right: 10px;
+}
+.myFailures{
+    font-weight: 400;
+    font-size: 16px;
+}
+/* My plans stylesheets */
+.myPlans{
+    display: flex;
+    justify-content: space-around;
+    padding: 200px 0;
+}
+.plan{
+    display: grid;
+    text-align: center;
+}
+.plan img{
+    width: 100px;
+    margin: 0 auto;
+}
+.plan h3{
+    color:#000;
+    font-weight: 700;
+    font-size: 30px;
+    padding: 20px 0;
+}
+.plan p{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+/* Mindset StyleSheets */
+.minset{
+    margin: 0 100px;
+    background-image: url(../images/watch.png);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}

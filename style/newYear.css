@@ -107,3 +107,25 @@ main{
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
+.mindCont{
+    position: relative;
+    top: 20%;
+    left: 3%;
+    width: 20%;
+}
+.mindCont h2{
+    font-weight: 700;
+    font-size: 40px;
+    color: #fff;
+    line-height: 70px;
+}
+.mindBtn{
+    padding: 20px 40px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 3px;
+    background-color: #fff;
+    color: #F15B22;
+    border: none;
+    margin-top: 40px;
+}

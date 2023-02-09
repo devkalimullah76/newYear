@@ -129,3 +129,64 @@ main{
     border: none;
     margin-top: 40px;
 }
+/* footer area stylesheets */
+footer{
+    padding: 200px 300px;
+    background-color: #000;
+}
+.footerArea{
+    display: flex;
+    justify-content: space-between;
+}
+.footerArea h2{
+    color: #ffff;
+}
+.feature h2{
+    font-weight: 700;
+    font-size: 45px;
+}
+.featureContent{
+    width: 30%;
+}
+.feature p{
+    padding: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.socialIcon{}
+.socialIcon ul{
+    display: flex;
+    margin-left: -20px;
+}
+.socialIcon li{
+    list-style: none;
+    padding-right: 20px;
+    margin-top: 30px;
+}
+.subscribe{
+    width: 30%;
+}
+.subscribe h2{
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.subscribe input{
+    width: 60%;
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #000;
+}
+.subscribe button{
+    padding: 15px 30px;
+    background-color: #F15B22;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: 20px;
+}
